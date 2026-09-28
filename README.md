@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o João Pedro 👋
 
-<!--
-**joaopcarminatti/joaopcarminatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na PUCPR (2025–2028), com foco em desenvolvimento back-end.
 
-Here are some ideas to get you started:
+- 🎯 Em busca do meu primeiro estágio em desenvolvimento
+- 💻 Trabalho com Java, Python, JavaScript e PHP
+- 🗄️ Experiência com MySQL e modelagem de bancos relacionais
+- 📚 Estudando arquitetura de software, APIs e o uso de IA no desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+`Java` `Python` `JavaScript` `PHP` `SQL` `Git` `Docker` `Linux` `Maven`
+
+### Onde me encontrar
+
+[LinkedIn](https://linkedin.com/in/joaopcarminatti) · joaopcarminatti456@gmail.com
